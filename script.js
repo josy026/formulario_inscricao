@@ -403,7 +403,7 @@ function validarLogin() {
     let senha = campos[1].value.trim();
 
     if (usuario === "" || senha === "") {
-        mensagemErro.textContent = "Por favor, preencha todos os campos.";
+        mensagemErro.textContent =  " Preencha todos os campos.";
         mensagemErro.style.color = "red";
     } else {
         window.location.href = "formulario.html";
