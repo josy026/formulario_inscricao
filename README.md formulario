@@ -1,0 +1,61 @@
+1. O que é o projeto?
+ 
+ Este projeto consiste em um site desenvolvido com o objetivo de realizar cadastros de usuários por meio de um formulário online. O site simula um sistema de inscrição simples, com funcionalidades de login, validação de dados e armazenamento local dos dados cadastrados.
+ 
+ O projeto foi desenvolvido para fins acadêmicos, visando a prática de desenvolvimento web com HTML, CSS e JavaScript.
+ 
+ 2. Como rodar o projeto localmente?
+ 
+ Passo a Passo:
+ 
+ Faça o download dos arquivos do projeto (ou clone o repositório).
+ 
+ git clone link-do-repositorio
+ 
+ Abra a pasta do projeto.
+ 
+ Clique duas vezes no arquivo pagina.html para abrir a Página Inicial no navegador e clique no botão de inscrição o site redireciona para o Formulário de cadastro.
+ Preencha os dados corretamente para finalizar o cadastro.
+ 
+ Para testar o login, clique em "Login" no menu e utilize os seguintes dados cadastrados no formulario:
+ 
+ ID: adim
+ Senha: 123456
+ (exemplo)
+ Após o login correto, o site redireciona para o Formulário de cadastro.
+ 
+ 3. Tecnologias Utilizadas
+ 
+ As principais tecnologias utilizadas neste projeto foram:
+ 
+ HTML: Estrutura das páginas do site.
+ 
+ CSS: Estilização e design visual.
+ 
+ JavaScript: Validação dos dados, controle de login e armazenamento local (LocalStorage).
+ 
+ 4. Principais Funcionalidades do Projeto
+ 
+ Estrutura do site com HTML e organização por páginas.
+ 
+ Estilização do site com CSS (cores, fontes, espaçamento, responsividade).
+ 
+ Validação dos dados inseridos no formulário com JavaScript.
+ 
+ Sistema de Login simples:
+ 
+ Validação de ID e senha cadastrados.
+ 
+ Redirecionamento do usuário em caso de sucesso ou erro.
+ 
+ Validação de campos obrigatórios:
+ 
+ Nome preenchido.
+ 
+ Email no formato correto.
+ 
+ CPF com 11 números.
+ 
+ Armazenamento dos dados cadastrados utilizando o LocalStorage do navegador.
+ 
+ Exibição de mensagens de sucesso ou erro utilizando o método alert() do JavaScript.
